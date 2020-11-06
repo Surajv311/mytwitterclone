@@ -1,5 +1,6 @@
 deployed : at : https://mytwitter-clone.web.app/
 
+to deploy latest version , -> ``` npm run build ``` & then ``` firebase deploy``` . 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
