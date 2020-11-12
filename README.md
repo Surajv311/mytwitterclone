@@ -1,6 +1,40 @@
-deployed : at : https://mytwitter-clone.web.app/
+# Twitter Clone Realtime Web App 
 
-to deploy latest version , -> ``` npm run build ``` & then ``` firebase deploy``` . 
+The following app uses ReactJS, MaterialUI in the frontend & the backend is integrated with firebase. Twitter API used.<br> 
+
+![img](https://github.com/Surajv311/mytwitterclone/blob/main/img/tww.jpg)
+
+#### Commands followed/ Packages used
+```npx create-react-app myapp``` <br>
+
+```npm install @material-ui/core``` <br> 
+
+```npm install @material-ui/icons``` <br> 
+
+```npm start ``` <br>
+
+```npm run build``` <br> 
+
+```npm i -g firebase tools```  <br>
+
+```firebase login``` <br>
+
+``` firebase init``` <br>
+
+```  firebase deploy``` <br>
+
+#### Deployment
+
+The app has been delpoyed to firebase. <br> 
+url : [check here]( https://mytwitter-clone.web.app/).
+<br> 
+
+Note: 
+To deploy the latest version in firebase : -> ``` npm run build ``` & then ``` firebase deploy``` .
+
+<br> 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
